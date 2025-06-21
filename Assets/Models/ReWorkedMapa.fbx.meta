@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: 26d3393b6f6d6d143b2f4362f5e7d652
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Antracit
+    second: {fileID: 2100000, guid: 017b983eab83a76479e3381c70955c4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ArenaHneda
+    second: {fileID: 2100000, guid: bf494c45e91357148b8aa2c9e9ef1e7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beron
+    second: {fileID: 2100000, guid: bb0b99208c6cfae42ada954faf34a24a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BeronTmavy
+    second: {fileID: 2100000, guid: c669dbdb703ab9c44b74d97a06c8baa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bezova
+    second: {fileID: 2100000, guid: 581243204d6778c42bf7fe2f5a4101b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BezovaBudova
+    second: {fileID: 2100000, guid: f54b7ea131a858a46adb99c43cc50621, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BezovaBudova.001
+    second: {fileID: 2100000, guid: d7e270ce34120564ca2d4e3477c06543, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BezovaBudova.002
+    second: {fileID: 2100000, guid: 97a1905c1441dba4ba29dfe429efd492, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BezovaBudova.003
+    second: {fileID: 2100000, guid: 811c91c6b68dab04692d0d4fea102758, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BezovaBudova.004
+    second: {fileID: 2100000, guid: 9bad044287aa89e4b90dc195648ce240, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BezovaBudova.005
+    second: {fileID: 2100000, guid: e0bd69dc1b55aff4886fc09de1e0b597, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BezovaBudova.006
+    second: {fileID: 2100000, guid: 773bbce81dd8e284aad96b2d61e5cc9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BezovaTmava
+    second: {fileID: 2100000, guid: 70e501cdaf841c44bb539c977c468402, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Biela
+    second: {fileID: 2100000, guid: 08c85974922ce3b428c90dab2aa0665f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Biela.001
+    second: {fileID: 2100000, guid: 74b0d5ff8f5244b45bb698ca9bad33ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BielaFarbaNaCeste
+    second: {fileID: 2100000, guid: d189e06b412f2d34cb07d44a7787afbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BielaFarbaNaCeste.001
+    second: {fileID: 2100000, guid: 4dcfa79b0ee7df94e8496551c9c352c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BielaFarbaNaCeste.002
+    second: {fileID: 2100000, guid: 020d4c6ec3050154890db6514b122738, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BielaFarbaNaCeste.003
+    second: {fileID: 2100000, guid: 858c02e5173b2c34088ca0e8f4eaace4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BielaFarbaNaCeste.004
+    second: {fileID: 2100000, guid: 50c2b7e98b0370140945dbfa47ef845f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BielaFarbaNaCeste.005
+    second: {fileID: 2100000, guid: a65a16e7d838fa543829ade4b7c16176, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BielaFarbaNaCeste.006
+    second: {fileID: 2100000, guid: 9a6b61ef9f35d1b40bd18264007775b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BielaFarbaNaCeste.007
+    second: {fileID: 2100000, guid: 02a3650a472f814408437c4e7e229c57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BielaZabrany
+    second: {fileID: 2100000, guid: 70f068ee3de431b4fafe80dcab59c45c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BielaZabrany.001
+    second: {fileID: 2100000, guid: fdf0be949c332074b9a592be7da4d588, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BielaZabrany.002
+    second: {fileID: 2100000, guid: 4ee7cdaeb52e10a48882a7f27b5b83e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BielaZabrany.003
+    second: {fileID: 2100000, guid: ebad8a67e254b5640acb808be4ae2489, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BielaZabrany.004
+    second: {fileID: 2100000, guid: 9c9b992704fdd5d49b290b05a9c631aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BielaZabrany.005
+    second: {fileID: 2100000, guid: d4a7ac56b13791b4eb2018feaeeed780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BielaZabrany.006
+    second: {fileID: 2100000, guid: 826c85a3e20cfd8499ea90596e50bba7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 02d3d9eff3230dd4188299078e450ce3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black.001
+    second: {fileID: 2100000, guid: 7f618a5f16615364cbc8a29381e0cf0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black.003
+    second: {fileID: 2100000, guid: 66c0b6fdeded73f45b02bb78813cff3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black.004
+    second: {fileID: 2100000, guid: 53d92ba0b3d80dc4c9239a77b7ec852f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black.005
+    second: {fileID: 2100000, guid: 79229617d614a8646a53f4feec9606bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black.006
+    second: {fileID: 2100000, guid: f8d7305448c5d72428529569542109bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black.007
+    second: {fileID: 2100000, guid: 3969d98e1cfec144d88409fb95a42aa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BoltGreen.004
+    second: {fileID: 2100000, guid: 36d666a3084f34a42b4d17da27fcef7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bytovka
+    second: {fileID: 2100000, guid: fbc8de958de3429429d092409397b182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BytovkaCOlor1
+    second: {fileID: 2100000, guid: 60b5e14d1aa8bea4083be8941cd23671, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CervenaZabradlie
+    second: {fileID: 2100000, guid: 0517c11c0a902ec48bd178ca62e66172, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cesta
+    second: {fileID: 2100000, guid: ef58cb90e3593d640a15b1b89946636b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cesta.001
+    second: {fileID: 2100000, guid: 03b9dba3e2f67b846b81b5748ee76419, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chodnik.001
+    second: {fileID: 2100000, guid: b413eeed5d226d54fb78a3b0bfbcc218, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chodnik.003
+    second: {fileID: 2100000, guid: 72ded188df0a0944f9b21187976a921a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CiernaVseobecna
+    second: {fileID: 2100000, guid: cfacaad5ff79745449e6cd9286265f10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CiernaVseobecna.001
+    second: {fileID: 2100000, guid: 284179a6acc5ba64c9d0f002baa64291, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CiernaVseobecna.002
+    second: {fileID: 2100000, guid: d9346181fb99b7a4e9f20c1541457030, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CiernaVseobecna.003
+    second: {fileID: 2100000, guid: bf294477a94effb40962b72857cd24e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CiernaVseobecna.004
+    second: {fileID: 2100000, guid: 016a8bd2c11540740a7f14cbbead6ab1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CiernaVseobecna.005
+    second: {fileID: 2100000, guid: 8721e0dd91548ef4aaf57b5ab360ab27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FarebnyGridPreRastliny
+    second: {fileID: 2100000, guid: f2ffa51a6e021e045b348428ab30e857, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FarebnyGridPreRastliny.003
+    second: {fileID: 2100000, guid: 710ec949e31a4c44ebe3901d1a18ce77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FarebnyGridPreRastliny.004
+    second: {fileID: 2100000, guid: 5bbdbae2d1e816744949c0d9454a0105, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FarebnyGridPreRastliny.005
+    second: {fileID: 2100000, guid: 3f9169b30c4c26d468771ad5ab86dab7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FarebnyGridPreRastliny.006
+    second: {fileID: 2100000, guid: 4e9a8993ff8024b4d9edb2552b9babd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HeadLightsAuta
+    second: {fileID: 2100000, guid: 648c3cc6822592541a016b772d821622, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HeadLightsAuta.001
+    second: {fileID: 2100000, guid: f975e6a87be2ac045bdf2f796b994fcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HlinaHneda
+    second: {fileID: 2100000, guid: 7a5788534e92d9d478adcf25a5827208, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HlinaHneda.001
+    second: {fileID: 2100000, guid: 03573778697a0ac4a909e13e890c0ead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HlinaHneda.002
+    second: {fileID: 2100000, guid: 61684b522669f804e979098f027e733a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HlinaHneda.003
+    second: {fileID: 2100000, guid: 18e9e1e190734944ab9475194ecfefb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HlinaHneda.004
+    second: {fileID: 2100000, guid: 4c2488acb73560e4189024ee5432dad9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HnedaVseobecna
+    second: {fileID: 2100000, guid: 1334657cd73af8d478492c580dfc0c5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HnedaVseobecna.001
+    second: {fileID: 2100000, guid: c56b5edbde966ec459d49aa4fceb93a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HnedaVseobecna.002
+    second: {fileID: 2100000, guid: b5ffdb47b7233df4399406d1d3752523, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HnedaVseobecna.003
+    second: {fileID: 2100000, guid: 74e3dc6bef344ea4c826136e477937aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HnedaVseobecna.004
+    second: {fileID: 2100000, guid: aa144f4b599cbc44082f2c89fa5a48ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JemneZlta
+    second: {fileID: 2100000, guid: b199c128b0e15cd44afb8c845fc31429, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JemneZlta.001
+    second: {fileID: 2100000, guid: 0ff0a4d919d5d454381b9a90701ad3fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JemneZlta.002
+    second: {fileID: 2100000, guid: a3251fb2a689efc449877a9b8b9eb5c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JemneZlta.003
+    second: {fileID: 2100000, guid: d75c0a05e53f07b43946918ed1c7a03b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KovNaLampe
+    second: {fileID: 2100000, guid: 2a88ce81c79119f459c93385e53cef6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KovNaLampe.001
+    second: {fileID: 2100000, guid: b2404bd024ca9f0419119ab2ccfad38b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KovNaLampe.002
+    second: {fileID: 2100000, guid: 33c97bf84d67ffa4bae3b31c21dec209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KovNaLampe.003
+    second: {fileID: 2100000, guid: 2f82147d4d4696b459a8702cdcafe05c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KovNaLampe.004
+    second: {fileID: 2100000, guid: 7153b32688fa8af4bbaedc51f8e8cc40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KovNaLampe.005
+    second: {fileID: 2100000, guid: c28f09fc48d28d746b6d811b747a43b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KovNaLampe.006
+    second: {fileID: 2100000, guid: a6decc8d3716a594fa95a0065f2f8e1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KovNaLampe.007
+    second: {fileID: 2100000, guid: 36a9e09a93030fd488fc2272d77ffff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KovNaLampe.008
+    second: {fileID: 2100000, guid: 5aa5bf5b4863982429925496d22aafe6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KovNaLampe.009
+    second: {fileID: 2100000, guid: bcf71bf76440ee94584d04770bd34245, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KupelovaModra
+    second: {fileID: 2100000, guid: 147ba081891155c47aceaf2ea5c558fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LampSvetlo
+    second: {fileID: 2100000, guid: cf8ff5d1cfe36cb45afb8e39435336e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marhulova.001
+    second: {fileID: 2100000, guid: 970522495e640694d9d2c5fe03029c24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marhulova.002
+    second: {fileID: 2100000, guid: ebebee3a52820ec479cc0ad0ae98500e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marhulova.003
+    second: {fileID: 2100000, guid: df7dd76019ada5143be946a60dd7f0b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marhulova.004
+    second: {fileID: 2100000, guid: b86b5d3696ac51a44ac5cf3f9a947543, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marhulova.005
+    second: {fileID: 2100000, guid: a4745583684d7454983a75753680a3cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marhulova.006
+    second: {fileID: 2100000, guid: 3ba408fdc8486df418a0bccac01e355f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 10d4cc18266e58b4697711c5edd68fce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: edfc0d1db22997340812172b5e2af864, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: ca099f978f0162d44a6c181e145e28ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: f7ddca116a2bbdb4eb70ae058793ce8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 238e0848e6bb71c408e8507beb9a4ddf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: f9e81ce9a422be34b83f03aeb2c89e5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: efd6fd311470f9445a7ca8191b97deda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 345afa25832d1304ebad16b7c0a1dc25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: b913d438e320eb447856c903ff896428, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: 84c5770e975b3574aac9ed7221d4e151, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: a6ceb2427cc663840a78b1b0114b4bf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: abf9caa385a68af4d97a015c4dfb47e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.013
+    second: {fileID: 2100000, guid: 319b6d081447733408974088f84e73ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.014
+    second: {fileID: 2100000, guid: 2aaf176039d752d4bb8406c5634aaa13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.015
+    second: {fileID: 2100000, guid: d1a977250b1dbbc4e97724e748aec6a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.016
+    second: {fileID: 2100000, guid: 1911275237d98f0479004fa154541e86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.017
+    second: {fileID: 2100000, guid: e834d9e5a23e588498705e7c9841dba2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.018
+    second: {fileID: 2100000, guid: 225fe45620e07814482d4f7444bd8d66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.019
+    second: {fileID: 2100000, guid: e3dc218ae80188c4486627a8c263b8b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Modra
+    second: {fileID: 2100000, guid: ed4dd4e2ac586744cbc34c3aad65166d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ModraVody
+    second: {fileID: 2100000, guid: 3fb7cadb887d99b4696543f7e2d2ff19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Murik
+    second: {fileID: 2100000, guid: 2fe915598d408184b9cf2912dff9cf25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NebickovaModraVseobecna
+    second: {fileID: 2100000, guid: fa782fe4d6c567543b34f93debc8c15b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Obrubnik
+    second: {fileID: 2100000, guid: ee2c6f23eebbdaf4ca0c4fa0f6a1d63e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OranzovaKuzelu
+    second: {fileID: 2100000, guid: 5f31e926a79c9f54fac6c023d2f2e0e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OranzovaKuzelu.001
+    second: {fileID: 2100000, guid: 87fb3716fde423f48a3ed3837460c490, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OranzovaKuzelu.002
+    second: {fileID: 2100000, guid: 0af6704e7fd9d994590fdb45c425fa2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OranzovaKuzelu.003
+    second: {fileID: 2100000, guid: 828131b6407abd6469a47d20cf98716b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PneumatikyAuta
+    second: {fileID: 2100000, guid: a572e27dd7d70a44bacd4ca9b99fd117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PneumatikyAuta.001
+    second: {fileID: 2100000, guid: c38b5931a3e8ac44fa4bb6987a3b338b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RearLightsAuta
+    second: {fileID: 2100000, guid: f82f4644f3fd8334ab0a368bac6e73d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RearLightsAuta.001
+    second: {fileID: 2100000, guid: 0c4f5645ce5bd324196c842dc873161c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Reklama
+    second: {fileID: 2100000, guid: 666f21198346f814fbf3d4b1a0db6d48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rims.001
+    second: {fileID: 2100000, guid: de4ca33427c111745ad280652bb3a466, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof
+    second: {fileID: 2100000, guid: b1e813dc0fe9e2843b9fe24fbb5769b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ruzova
+    second: {fileID: 2100000, guid: 494c22564eb6b474cb7636c3867911d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RuzovaVseobecna
+    second: {fileID: 2100000, guid: 94c883cb7c1040f4caa555242cdd5d00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RuzovaVseobecna.001
+    second: {fileID: 2100000, guid: 92c686bc15eacf747ac28e39020a9246, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SedaObrubniku
+    second: {fileID: 2100000, guid: c95deada16cd2f0409634e6636374d94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SedaObrubniku.001
+    second: {fileID: 2100000, guid: 42771ade3761ded4080ae5eed825d24f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SedaObrubniku.002
+    second: {fileID: 2100000, guid: 9c86900133d938a48a3fb0d7005d4193, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SedaObrubniku.003
+    second: {fileID: 2100000, guid: 7f0e63dc72d653343a357a52cd507296, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SedaObrubniku.004
+    second: {fileID: 2100000, guid: 3a97fd7815948284a9719b42aff08749, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SedaObrubniku.005
+    second: {fileID: 2100000, guid: 91d55ca2b1b450647a8f852af9b9a776, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SedaObrubniku.006
+    second: {fileID: 2100000, guid: 279d7daa828c38f4da2912147d7f161c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SedaOmietka
+    second: {fileID: 2100000, guid: c46e38280aaffdc448d50b3eb409cf6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SedaOmietka.001
+    second: {fileID: 2100000, guid: 835451a8d197faa4181b7fe1debf418c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SedaOmietka.002
+    second: {fileID: 2100000, guid: dcb6ac5188543bc43a6b30a95c951bae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SedaOmietka.003
+    second: {fileID: 2100000, guid: 0ca373d4131748d458ddbe50ac9ea049, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SedaOmietka.004
+    second: {fileID: 2100000, guid: 3db513ebfb3a7744fbbc88119b2b17e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SedaVseobecna
+    second: {fileID: 2100000, guid: efb858ca41c6f024a92936755acfa570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SedaVseobecna.001
+    second: {fileID: 2100000, guid: ea04b10759b62d14db3e5c60161d99bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Semafor
+    second: {fileID: 2100000, guid: 5968c853c8f57534e82103a26c1dcbd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Semafor.001
+    second: {fileID: 2100000, guid: 1aa5dcfa958fe504a8dc4c0f08bfaa6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Semafor.003
+    second: {fileID: 2100000, guid: b511de3f0c2de924196b51df44faab22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Semafor.004
+    second: {fileID: 2100000, guid: e176843b79108f746ae0a9cc96468cee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SemaforCervcena
+    second: {fileID: 2100000, guid: 8b4118c364aae5d41857352c29201bd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SemaforMOdra
+    second: {fileID: 2100000, guid: 401a9535e049c9b41bcdc377f74743e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SemaforZelena
+    second: {fileID: 2100000, guid: 9fcc395219edd4c498ff291d46214d2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SemaforZlta
+    second: {fileID: 2100000, guid: bcfd3aba26bb2ad488c2a7ee76563e0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sipka
+    second: {fileID: 2100000, guid: 815ea1d94ac321149bb19a9758eee99e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sklo
+    second: {fileID: 2100000, guid: 617e2474dfa7b1945b98f234ec6e12de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkloVseobecne
+    second: {fileID: 2100000, guid: 8646bd86b57d42d4daf3e63326f880c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkloVseobecne.001
+    second: {fileID: 2100000, guid: ce0d2481643cc0e408773493a91772f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkloVseobecne.002
+    second: {fileID: 2100000, guid: c6c0c8de11455b44498e52dc648a7b85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkloVseobecne.003
+    second: {fileID: 2100000, guid: 2ba16bcba86fd5842a9a1d23ef360649, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkloVseobecne.004
+    second: {fileID: 2100000, guid: 63a124b68d7512c4fb8aa18d20269362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkloVseobecne.005
+    second: {fileID: 2100000, guid: 2ff2f3413f5439f43896549f2cde3475, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkloVseobecne.006
+    second: {fileID: 2100000, guid: dc8ef5368949a1747be801a8fc244bd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkloVseobecne.007
+    second: {fileID: 2100000, guid: d5ed383d781c5b6469fb2911021a6d06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkloVseobecne.008
+    second: {fileID: 2100000, guid: 03c989462d7ebb3429848f0b25c5741f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkloVseobecne.009
+    second: {fileID: 2100000, guid: c1adaed62c50488408a12837beb98db2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkloVseobecne.010
+    second: {fileID: 2100000, guid: f4931acaabd931143bf472626ef4335e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkloVseobecne.011
+    second: {fileID: 2100000, guid: d742dfd562d0d1e41b28731d261af259, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkloVseobecne.012
+    second: {fileID: 2100000, guid: 1dc004e12ba0a254e9f12f457cc3d97e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkloVseobecne.013
+    second: {fileID: 2100000, guid: efda3564839344e47b5181cb4577f343, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkloVseobecne.014
+    second: {fileID: 2100000, guid: 9da24f5ed2f943342a35486dac859db3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkloVseobecne.015
+    second: {fileID: 2100000, guid: e35df9bac13a86247a88d267993fad73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SmetiakModra
+    second: {fileID: 2100000, guid: ca707e36d0e13864e8557f0892f4baee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SmetiakModra.002
+    second: {fileID: 2100000, guid: 65b263b25acee3546968af23ea88835a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SmetiakZlta
+    second: {fileID: 2100000, guid: 3ecfd5cc6fdcee54dba01aa46ef59464, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stanica_Biela
+    second: {fileID: 2100000, guid: a2ddbce9aa493744a90c558198069625, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stanica_Modra
+    second: {fileID: 2100000, guid: b66df92e1b5ec99429be9cda96533793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stanica_Sklo
+    second: {fileID: 2100000, guid: 8a4682dd769428d4b8b38651c3e079ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StrechaBudovy
+    second: {fileID: 2100000, guid: 3744d76818bcb474292c2c1e6a614232, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StrechaBudovy.001
+    second: {fileID: 2100000, guid: 3fa9b8904f556e843a25b48637503737, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StrechaBudovy.002
+    second: {fileID: 2100000, guid: a185f96a83c60e24aa88e1d6542fa2bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StrechaBudovy.003
+    second: {fileID: 2100000, guid: 12227d51eb2d3714e8cc4de39bce2f15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StrechaBudovy.004
+    second: {fileID: 2100000, guid: 6a7ec69fcd92e9e4d8a1b3eba1e5a5de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StrechaBudovy.005
+    second: {fileID: 2100000, guid: 551b39282223a0243ab930ec2585c6f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StrechaBudovy.006
+    second: {fileID: 2100000, guid: e8aabea3b21d8ef43939eb446c2963ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StrechaBudovy.007
+    second: {fileID: 2100000, guid: 363d2433751a1bf459407dc2cd895a9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StrechaBudovy.008
+    second: {fileID: 2100000, guid: 29046f0a62c4d284fa4741cf9cabe41e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StrechaBudovy.009
+    second: {fileID: 2100000, guid: bd13faf504b1e4c45887222c190f68f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TehlyNaFakulte
+    second: {fileID: 2100000, guid: 7bbe47564f22daf4bb6ac27e7efa6454, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TehlyNaFakulte.001
+    second: {fileID: 2100000, guid: e51506097ba9f2b4dacc1e94d39e551d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TmavoRuzova
+    second: {fileID: 2100000, guid: 9034eb85d853c3d41b292a04e4395546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TmavoSedaNaFakulte
+    second: {fileID: 2100000, guid: b5a02ee32b5db8b46a36551afb48c3d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TmavoZltaVseobecna
+    second: {fileID: 2100000, guid: 05460d7cd7491a542a6831df08525887, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Tr\xE1va"
+    second: {fileID: 2100000, guid: 8ae48ae2f8f590f47b49af7467d8239f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Voda
+    second: {fileID: 2100000, guid: b9470c4e1c09554438c726fc660b5148, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIP
+    second: {fileID: 2100000, guid: a2ec813a7259b8f4cada1cc6d305bc86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowFrame.001
+    second: {fileID: 2100000, guid: 91f559078a1658f4385372a4400eac2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowWhite
+    second: {fileID: 2100000, guid: 1a213ad689b4ef04585816f1ee35a066, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZelenaMetalickaKos
+    second: {fileID: 2100000, guid: 72f71a5d5aa4d614b8064b6329efc625, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZelenaMetalickaKos.001
+    second: {fileID: 2100000, guid: c45d52beef7c8cd4b8b86e3da461c9db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZelenaVseobecna
+    second: {fileID: 2100000, guid: c3c311352f630224fa75ba0301d5b3a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZelenaVseobecna.001
+    second: {fileID: 2100000, guid: 84e1aaec74f8bb84fbe768a6eff65174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZelenaVseobecna.002
+    second: {fileID: 2100000, guid: 17457b368e16e6c4685c550d916d003f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZltaVseobecna
+    second: {fileID: 2100000, guid: bebc8116f812b514090d0ed7bb4fface, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 17a4431fa92e0194ba2830ecdc7d1ae3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sklo
+    second: {fileID: 2100000, guid: d5d3d43554bb38b48afd39edf3281522, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
